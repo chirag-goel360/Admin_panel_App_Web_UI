@@ -40,7 +40,7 @@ class RecentFiles extends StatelessWidget {
                 ),
                 DataColumn(
                   label: Text(
-                    "Date Accessed",
+                    "Date",
                   ),
                 ),
                 DataColumn(
